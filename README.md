@@ -46,7 +46,7 @@ Consolation has been tested by the developers on a Samsung Galaxy Tab S8 Ultra (
 ### Running
 
 - Android device with a USB port
-- Android OS 15 or higher
+- Android OS 12 or higher
 - A UVC-compliant video capture card
 
 ### Developer
